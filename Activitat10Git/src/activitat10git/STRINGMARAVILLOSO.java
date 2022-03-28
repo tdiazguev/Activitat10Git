@@ -15,7 +15,7 @@ public class STRINGMARAVILLOSO {
         String M = "MARAVILLOSO";
 
         System.out.println("LA versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local");
-        System.out.println("LA versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local");
+      System.out.println("print 2 ");
 
         //Imprime los primeros dos triangulos de izq a derecha de la primera parte (parte superios)       
         for (int i = 0; i < M.length(); i++) {
